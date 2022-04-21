@@ -1,0 +1,8 @@
+column,type,label,description
+Date,text,,
+Zip Code,text,,
+Model Year,text,,
+Fuel,text,,
+Make,text,,
+Duty,text,,
+Vehicles,text,,
