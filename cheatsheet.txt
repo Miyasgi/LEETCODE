@@ -11,3 +11,7 @@
 3. Start search from that index to end of array num2, if you find a value a greater than the current value.
 4. If you find, add that into the result array; else add '-1'
 5. In the end, return the result
+
+
+
+1232.考的是数学，判断一堆点是否在一条直线上，要注意求斜率的公式是带有除的，要转化成可以乘的，用初高中知识，交叉相乘。
