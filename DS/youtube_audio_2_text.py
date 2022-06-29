@@ -35,7 +35,7 @@ N_FEATURES = 26
 # Size of the context window used for producing timesteps in the input vector
 N_CONTEXT = 9
 
-video_id='9fAnRkJ6N3s'
+video_id='m9RoBcVdgbU'
 url='http://www.youtube.com/watch?v='+video_id
 yt=YouTube(url)
 title=helpers.safe_filename(yt.title)
